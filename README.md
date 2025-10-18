@@ -40,3 +40,8 @@ Presentation or video demonstration.
  
  Facebook Prophet, TensorFlow/Keras (for LSTM)
  Streamlit/Flask for deployment (optional)
+
+ After Cloning the given repo:
+ 1) open vs terminal and connect to virtual envirnoment.
+ 2) run this command to open streamlit - [streamlit run Trading_App.py]
+ 3) It will redirect you to streamlit user interface
